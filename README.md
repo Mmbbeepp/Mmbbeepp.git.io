@@ -2,4 +2,4 @@
 
 U ovom repozitoriju nalazi se http, CSS i Javascript kod za osobnu web stranicu
 
-Adresa web stranice je: https://github.com/Mmbbeepp/Mmbbeepp.git.io.git
+Adresa web stranice je: https://mmbbeepp.github.io/Mmbbeepp.git.io/
