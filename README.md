@@ -1,1 +1,5 @@
-# Mmbbeepp.git.io
+# Repozitorij moje osobne web stranice
+
+U ovom repozitoriju nalazi se http, CSS i Javascript kod za osobnu web stranicu
+
+Adresa web stranice je: https://github.com/Mmbbeepp/Mmbbeepp.git.io.git
